@@ -44,3 +44,9 @@ Docker image -> Amazon ECR (private registry) -> ECS task definition -> ECS serv
 ![App running on Fargate](screenshots/hello-from-ecs.png)
 
 ![Health check](screenshots/health-check.png)
+
+## Results
+
+![App running on Fargate](screenshots/hello-from-ecs.png)
+
+![Health check](screenshots/health-check.png)
