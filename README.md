@@ -38,3 +38,9 @@ Docker image -> Amazon ECR (private registry) -> ECS task definition -> ECS serv
 - `app.py`, `requirements.txt`, `Dockerfile`: the app and its image
 - `task-definition.json`: the ECS task definition (account ID replaced with a placeholder)
 - `screenshots/`: the app running on Fargate
+
+## Results
+
+![App running on Fargate](screenshots/hello-from-ecs.png)
+
+![Health check](screenshots/health-check.png)
